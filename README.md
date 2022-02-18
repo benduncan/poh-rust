@@ -1,4 +1,4 @@
-# Proof of History - Concepts in Go
+# Proof of History - Concepts in Rust
 
 ```
  ________  ________  ___  ___         
